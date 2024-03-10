@@ -12,11 +12,9 @@ You can access the PortSwigger Labs [here](https://portswigger.net/web-security)
 The challenges in this repository are organized into the following categories:
 
 - **SQL Injection**
-- **Cross-Site Scripting (XSS)**
-- **Cross-Site Request Forgery (CSRF)**
 - **Authentication**
 - **Access Control**
-- **Insecure Deserialization**
+- **File upload vulnerabilities**
 - **Server-Side Request Forgery (SSRF)**
 - **... and more**
 
